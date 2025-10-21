@@ -46,7 +46,7 @@
 
 ### 📫 Bana Ulaş
 <p align="left">
-  <a href="mailto:ozd.omer17.com"><img src="https://img.shields.io/badge/E--posta-omerozdemir@example.com-red?style=flat-square&logo=gmail" /></a><br>
+  <a href="mailto:ozd.omer17.com"><img src="https://img.shields.io/badge/E--posta-ozd.omer17@gmail.com-red?style=flat-square&logo=gmail" /></a><br>
   <a href="https://www.linkedin.com/in/omerozdemir7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ömer%20Özdemir-blue?style=flat-square&logo=linkedin" /></a><br>
   <a href="https://github.com/omerozdemir7" target="_blank"><img src="https://img.shields.io/badge/GitHub-omerozdemir7-black?style=flat-square&logo=github" /></a>
 </p>
