@@ -29,8 +29,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerozdemir7&show_icons=true&theme=tokyonight" alt="omerozdemir7 stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerozdemir7&layout=compact&theme=tokyonight" height="165"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=omerozdemir7&show_icons=true&theme=tokyonight" alt="omerozdemir7 stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerozdemir7&layout=compact&theme=tokyonight" alt="omerozdemir7 top langs" />
+  </a>
 </p>
 
 ---
