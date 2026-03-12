@@ -49,8 +49,8 @@ I enjoy turning ideas into clean interfaces and functional products, while conti
 A modern movie exploration web app where users can search and browse movies in a clean interface.  
 Built with **HTML, CSS, JavaScript, and Vite**.
 
-🔗 [Live Demo](https://github.com/omerozdemir7/my-project-cinemania/)  
-🔗 [Repository](https://omerozdemir7.github.io/my-project-cinemania/)
+🔗 [Live Demo](https://omerozdemir7.github.io/my-project-cinemania/)  
+🔗 [Repository](https://github.com/omerozdemir7/my-project-cinemania/)
 
 ---
 
