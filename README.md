@@ -111,9 +111,9 @@ I actively use GitHub as a place to learn, build, and improve through real proje
   <a href="mailto:ozd.omer17@gmail.com">
     <img src="https://img.shields.io/badge/Email-ozd.omer17@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/omerozdemir7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ömer%20Özdemir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/omerozdemir7" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ömer%20Özdemir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://github.com/omerozdemir7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-omerozdemir7-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
